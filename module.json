@@ -1,0 +1,15 @@
+{
+  "id": "turn-display",
+  "title": "Simple Turn Display",
+  "description": "A simple display for showing the current turn",
+  "authors": [
+    {
+    "name": "River Marks"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+}
